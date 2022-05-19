@@ -19,6 +19,7 @@
 - Haruka Taro
 - Chelsea Xu (https://github.com/ChelseaXu)
 - Leo Emman
+- Allison Turner
 - Noemptytags
 - Horvath Aron 
 - Jay Lin (https://github.com/JetPlaneJJ)
